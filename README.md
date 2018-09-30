@@ -3,4 +3,4 @@ test repo
 
 42
 
-hell-universe
+hello-universe
